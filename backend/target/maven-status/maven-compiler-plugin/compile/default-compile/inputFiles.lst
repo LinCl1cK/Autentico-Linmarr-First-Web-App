@@ -1,0 +1,16 @@
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\controller\AuthController.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\controller\DashboardController.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\controller\UserController.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\dto\DashboardResponse.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\dto\LoginRequest.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\dto\LoginResponse.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\dto\RegisterRequest.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\dto\UpdateProfileRequest.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\dto\UserResponse.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\exception\ApiExceptionHandler.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\exception\AuthException.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\exception\ForbiddenException.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\model\User.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\repository\UserRepository.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\service\UserService.java
+C:\Users\Lorenz\Documents\Autentico-Linmarr-First-Web-App\backend\src\main\java\edu\bsit\autentico\UserhubApplication.java

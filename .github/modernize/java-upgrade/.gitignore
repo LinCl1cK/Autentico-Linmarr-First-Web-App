@@ -1,0 +1,26 @@
+# Backend (Maven / Spring Boot)
+**/target/
+*.log
+
+# Frontend (Node / Vite)
+node_modules/
+dist/
+*.local
+
+# Secrets
+.env
+.env.*
+
+# Tool-generated
+.github/modernize/
+
+# IDE / OS
+.idea/
+*.iml
+**/.vscode/*
+!**/.vscode/launch.json
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db

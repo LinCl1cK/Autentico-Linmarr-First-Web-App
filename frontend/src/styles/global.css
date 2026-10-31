@@ -1,0 +1,49 @@
+:root {
+  --color-primary: #1f7a4d;
+  --color-primary-hover: #18653f;
+  --color-primary-soft: #e8f5ee;
+  --color-text: #1a1f1c;
+  --color-text-muted: #5c6b62;
+  --color-border: #d8e0db;
+  --color-bg: #f4f7f5;
+  --color-surface: #ffffff;
+  --color-error: #b42318;
+  --color-error-bg: #fef3f2;
+  --font-sans: 'DM Sans', system-ui, sans-serif;
+  --radius: 10px;
+  --shadow: 0 1px 2px rgba(26, 31, 28, 0.04), 0 8px 24px rgba(26, 31, 28, 0.06);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button,
+input {
+  font: inherit;
+}
